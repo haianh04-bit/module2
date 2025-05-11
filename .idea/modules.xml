@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/Bai1.iml" filepath="$PROJECT_DIR$/Module2/Bai1/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/Bai2.iml" filepath="$PROJECT_DIR$/Module2/Bai2/Bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/HienThiThoiGian/HienThiThoiGian.iml" filepath="$PROJECT_DIR$/Module2/Bai1/HienThiThoiGian/HienThiThoiGian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/Variable-DateType/KBvaSDBien.iml" filepath="$PROJECT_DIR$/Module2/Bai1/Variable-DateType/KBvaSDBien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/ToanTu/ToanTu.iml" filepath="$PROJECT_DIR$/Module2/Bai1/ToanTu/ToanTu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/bmi/bmi.iml" filepath="$PROJECT_DIR$/Module2/Bai1/bmi/bmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/check-prime/check-prime.iml" filepath="$PROJECT_DIR$/Module2/Bai2/check-prime/check-prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/day-of-month/day-of-month.iml" filepath="$PROJECT_DIR$/Module2/Bai1/day-of-month/day-of-month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/draw-geometry/draw-geometry.iml" filepath="$PROJECT_DIR$/Module2/Bai2/draw-geometry/draw-geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/exchange money/exchange money.iml" filepath="$PROJECT_DIR$/Module2/Bai1/exchange money/exchange money.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/greatest-common-factor/greatest-common-factor.iml" filepath="$PROJECT_DIR$/Module2/Bai2/greatest-common-factor/greatest-common-factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/hello/hello.iml" filepath="$PROJECT_DIR$/Module2/Bai1/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/interest-calculator/interest-calculator.iml" filepath="$PROJECT_DIR$/Module2/Bai2/interest-calculator/interest-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/lap-year-coculator/lap-year-coculator.iml" filepath="$PROJECT_DIR$/Module2/Bai1/lap-year-coculator/lap-year-coculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/linear-equation-reosolver/linear-equation-reosolver.iml" filepath="$PROJECT_DIR$/Module2/Bai1/linear-equation-reosolver/linear-equation-reosolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai1/number-reader/number-reader.iml" filepath="$PROJECT_DIR$/Module2/Bai1/number-reader/number-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/prime-check/prime-check.iml" filepath="$PROJECT_DIR$/Module2/Bai2/prime-check/prime-check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/prime-number/prime-number.iml" filepath="$PROJECT_DIR$/Module2/Bai2/prime-number/prime-number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Bai2/print-shapes/print-shapes.iml" filepath="$PROJECT_DIR$/Module2/Bai2/print-shapes/print-shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>
