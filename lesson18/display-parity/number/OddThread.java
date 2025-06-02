@@ -1,4 +1,6 @@
-public class OddThread implements Runnable {
+package number;
+
+public class OddThread extends Thread {
 
 
     @Override

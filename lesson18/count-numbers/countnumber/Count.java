@@ -1,9 +1,11 @@
+package countnumber;
+
 public class Count implements Runnable {
     private Thread myThread;
 
-    public Count(String name) {
-        myThread = new Thread(this, "My runnable thread");
-        System.out.println("My thread created: " + myThread);
+    public Count() {
+        myThread = new Thread(this, "Luồng thực thi của tôi");
+        System.out.println("Luồng của tôi đã được tạo ra: " + myThread);
         myThread.start();
     }
     public Thread getMyThread() {
@@ -13,13 +15,13 @@ public class Count implements Runnable {
     @Override
     public void run() {
         try {
-            for (int i = 1; i <= 10; i++) {
-                System.out.println("Printing the count " + i);
-                Thread.sleep(1000); // Sleep for 100 milliseconds
+            for (int i = 1; i < 10; i++) {
+                System.out.println("In ra số đếm " + i);
+                Thread.sleep(1000);
             }
         } catch (InterruptedException e) {
-            System.out.println("Thread interrupted" );
+            System.out.println("Chỉ thị của tôi đã bị ngắt");
         }
-        System.out.println("Main thread run is over");
+        System.out.println("Luồng của tôi đã hoàn tất.");
     }
 }

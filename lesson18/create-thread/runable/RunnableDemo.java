@@ -14,13 +14,13 @@ public class RunnableDemo implements Runnable {
         System.out.println("Running " + threadName);
         try {
             for (int i = 4; i > 0; i--) {
-                System.out.println("Thread: " + threadName + ", " + i);
+                System.out.println("thread.Thread: " + threadName + ", " + i);
                 Thread.sleep(50);
             }
         } catch (InterruptedException e) {
-            System.out.println("Thread " + threadName + " interrupted.");
+            System.out.println("thread.Thread " + threadName + " interrupted.");
         }
-        System.out.println("Thread " + threadName + " exiting.");
+        System.out.println("thread.Thread " + threadName + " exiting.");
     }
 
     public void start() {

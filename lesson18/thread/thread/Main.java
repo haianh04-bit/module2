@@ -1,4 +1,6 @@
-public class Thread {
+package thread;
+
+public class Main {
 
     public static void main(String[] args) {
         NumberGenerator numberGenerator1 = new NumberGenerator();
@@ -7,7 +9,7 @@ public class Thread {
         Thread thread1 = new Thread(numberGenerator1);
         Thread thread2 = new Thread(numberGenerator2);
 
-        
+
         thread1.setPriority(Thread.MAX_PRIORITY);
         thread2.setPriority(Thread.MIN_PRIORITY);
 
